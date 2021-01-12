@@ -17,3 +17,8 @@ Unegma will plan as best as possible, within the time limits available, to keep 
 ## Brand Visibility
 
 We are happy to work for you as an [Undisclosed Agent](https://www.google.com?q=undisclosed+agent) when working with third parties (you will provide an email account for usage). An additional fee will be added to cover any loss of opportunity for brand promotion. Alternatively, we are happy to work with you as a strategic partner. 
+
+## todo
+copy from here
+
+https://gist.github.com/malarkey/4031110
