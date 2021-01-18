@@ -2,8 +2,8 @@
 
 ## Parties
 
-Us/We/Our - Unegma
-You - the Client
+* Us/We/Our - Unegma
+* You - the Client
 
 ## Code Usage/Ownership
 
