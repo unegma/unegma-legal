@@ -26,3 +26,7 @@ We are happy to work for you as an [Undisclosed Agent](https://www.google.com?q=
 ## Security
 
 We will not be held liable for any compromise to your data in the event that a third party system, which we are contracted to work with, does not meet adequate security requirements.
+
+## Non Compete
+
+Sometimes you may need us to work with your third party providers. We will not seek out our own contracts with your third party providers without your explicit approval whilst we are working for you, and for a pre-agreed period of time after.
