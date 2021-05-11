@@ -5,15 +5,29 @@
 * Us/We/Our - Unegma
 * You - the Client
 
-## Code Usage/Ownership
+## IP rights
 
-You own the 'business logic' from which code is constructed. You own any code libraries/programs which are created especially to execute your business logic. We will sometimes use our own libraries within projects: these contain code, which usually performs common tasks, such as data access and data processing, and which could be used within any other project without exposing any client's unique business logic or sensitive data.
+As far as possible, in all jurisdictions, the work we do for you is yours, and we waive any future IP rights over it (grant a perpetual usage license in the UK). We do however request permission to add you to our website as a partner, and to use your company logo as part of our promotional material unless otherwise agreed. 
 
-## Code validation
+In the case of software, we will sometimes use our own libraries within projects: these contain code which could be used within any other project without exposing any client's unique business logic or data.
 
-If appropriate, we will give you an opportunity to validate important algorithms before their usage. In these instances, if you or someone on your team, or an external third party, has the ability to verify important functionality before it is run on important data, then it is your responsibility to do so, and we will accept no responsibility for any oversight in these circumstances. 
+## Advisory and Project Management
 
-If your team does not have the capabilities for extensive code audits, we will aim to work with you as closely as possible through a number of example scenarios, until both parties are confident that running a script on live data, will have as little potential for any unforseen consequences; In the case of an event such as this, we will aim to work with you as closely and quickly as possible to rectify any unintended consequences or circumstances.
+We are aware that each company has its own structure and way of working; if you do not have a Project Management system in place, we will suggest our own tools and methodologies (following Agile principles as best as possible). 
+
+Unegma LTD is not a qualified legal or financial body and, whilst we endevour to keep up with changes in these areas, any advice given by Unegma LTD does not constitute professional advice in these fields.
+
+## Third Party Providers
+
+We will sometimes use third party providers to complete supplementary work which falls within the scope of our responsibilities. Any delegated work will be done in such a way as to protect the identity and the business aims and objectives of the Client.
+
+## Non Compete
+
+Sometimes you may need us to work with your third party providers. We will not seek out our own contracts with your third party providers without your explicit approval whilst we are working for you, and for a pre-agreed period of time after (unless a prior relationship with the third party was in place). We will also not seek to employ a member of the Client's staff should they leave the Client, unless there is explicit approval from the Client.
+
+## Invoices
+
+If invoices are unable to be paid on time, please speak to us and we will seek to come to some arrangement with you. In the event of no agreed arrangment, Unegma LTD will reduce it's time working with the Client (no matter the deadline of the project), until there has been a new arrangement.
 
 ## Backups and Data
 
@@ -23,10 +37,17 @@ We will aim to keep relevant data backed up, on your servers if possible. We aim
 
 We will not be held liable for any compromise to your data in the event that a third party system, which we are contracted to work with, does not meet adequate security requirements. We will however be able to offer some advice to clients regarding security, and we will seek to do so in the case that a client is working with highly sensitive data. It is then entirely up to the discretion of the client to follow this up.
 
-## Non Compete
+## Brand Visibility and Reputation
 
-Sometimes you may need us to work with your third party providers. We will not seek out our own contracts with your third party providers without your explicit approval whilst we are working for you, and for a pre-agreed period of time after. We will also not seek to employ a member of a client's staff should they leave the company, unless there is explicit approval.
+We have a reputation to maintain, we know that you do too, therefore we will work to the very best of our ability in order to provide you with a professional product and service. We are also happy to work for you as an [Undisclosed Agent](https://www.google.com?q=undisclosed+agent) when working with third parties (you will provide an email account for usage). 
 
-## Brand Visibility
+## Quality Assurance / Sign Off
 
-We are happy to work for you as an [Undisclosed Agent](https://www.google.com?q=undisclosed+agent) when working with third parties (you will provide an email account for usage). An additional fee will be added to cover any loss of opportunity for our brand promotion. Alternatively, we are happy to work with you as a strategic partner. 
+If appropriate, we will give you an opportunity to validate important work before it is published/released. If your team does not have the capabilities for extensive audits (especially in the case of code), we will aim to work with you as closely as possible, often through a number of example scenarios, until any potential for unforeseen consequences is mitigated, or until the Client is happy that the work is in an acceptible state.
+
+## Revisions and Liabilities
+
+If something goes wrong, we will work with you as closely and quickly as possible to rectify/mitigate any unintended scenarios. Unegma LTD will not be responsible for any loss of data or reputation as a result of a decision that was made counter to reasonable advice. 
+
+We update this document from time to time. We will let you know in the footer of regular correspondence, when we do - unless we need to make explicity clear new terms and conditions which could affect day to day business relations.
+
