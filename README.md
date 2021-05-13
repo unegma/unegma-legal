@@ -19,11 +19,11 @@ Unegma LTD is not a qualified legal or financial body and, whilst we endeavour t
 
 ## Third Party Providers
 
-We will sometimes use third party providers to complete supplementary work which falls within the scope of our responsibilities. Any delegated work will be done in such a way as to protect the identity and the business aims and objectives of the Client.
+We will sometimes use trusted third party providers to complete supplementary work which falls within the scope of our responsibilities. Any delegated work will be done in such a way as to protect the identity and the business aims and objectives of the Client.
 
 ## Non Compete
 
-Sometimes you may need us to work with your third party providers. We will not seek out our own contracts with your third party providers without your explicit approval whilst we are working for you, and for a pre-agreed period of time after (unless a prior relationship with the third party was in place). We will also not seek to employ a member of the Client's staff should they leave the Client, unless there is explicit approval from the Client.
+Sometimes you may need us to work with your trusted third party providers. We will not seek out our own contracts with your third party providers without your explicit approval whilst we are working for you, and for a pre-agreed period of time after (unless a prior relationship with the third party was in place). We will also not seek to employ a member of the Client's staff should they leave the Client, unless there is explicit approval from the Client.
 
 ## Invoices
 
