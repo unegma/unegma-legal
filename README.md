@@ -27,7 +27,7 @@ Sometimes you may need us to work with your trusted third party providers. We wi
 
 ## Invoices
 
-If invoices are unable to be paid on time, please speak to us and we will seek to come to some arrangement with you. In the event of no agreed arrangement, Unegma LTD will reduce it's time working with the Client (no matter the deadline of the project), until there has been a new arrangement.
+If invoices are unable to be paid on time, please speak to us and we will seek to come to some arrangement with you. In the event of no agreed arrangement, Unegma LTD will reduce it's time working with the Client (no matter the deadline of the project), until there has been a new arrangement. We don't usually do retainers, but we do ask for at least weekly billing.
 
 ## Security, Backups and Data
 
