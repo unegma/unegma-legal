@@ -41,7 +41,7 @@ We can offer some security advice to clients (via a trusted third party provider
 
 ## Brand Visibility and Reputation
 
-We have a reputation to maintain, we know that you do too, therefore we will collaborate to the very best of our ability in order to provide you with a professional product and service. We are also happy to work for you as an [Undisclosed Agent](https://www.google.com?q=undisclosed+agent) when working with third parties (you will provide an email account for usage). 
+We have a reputation to maintain, we know that you do too, therefore we will collaborate with you to the very best of our ability in order to provide you with a professional product and service. We are also happy to work for you as an [Undisclosed Agent](https://www.google.com?q=undisclosed+agent) when working with third parties (you will provide an email account for usage). 
 
 ## Quality Assurance / Sign Off
 
