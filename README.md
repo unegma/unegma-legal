@@ -37,7 +37,7 @@ To best protect any clients' data that does happen to be on our own devices, we 
 
 We will not be held liable for any compromise of data in the event that a client's third party system, which we are contracted to work with, does not meet adequate security requirements. 
 
-We can offer some security advice to clients (via a trusted third party provider), and we will strongly advise following up on this in the event that a client is working with highly sensitive data.
+We can offer some security advice to clients (via a trusted third party provider), and we will strongly advise following up on this in the case that a client is working with highly sensitive data.
 
 ## Brand Visibility and Reputation
 
