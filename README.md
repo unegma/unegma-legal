@@ -51,4 +51,4 @@ If appropriate, we will give you an opportunity to validate important work befor
 
 If something goes wrong, we will work with you as closely and quickly as possible to rectify/mitigate any unintended scenarios. Unegma LTD will not be responsible for any loss of data or reputation as a result of a decision that was made counter to reasonable advice. 
 
-We update this document from time to time. We will let you know when we do; usually in the footer of regular corresponsence (emails), because we probably hate spam just as much as you do.
+We update this document from time to time, we will let you know when we do; usually in the footer of regular corresponsence (emails), because we probably hate spam just as much as you do.
