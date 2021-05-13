@@ -23,7 +23,7 @@ We will sometimes use trusted third party providers to complete supplementary wo
 
 ## Non Compete
 
-Sometimes you may need us to work with your trusted third party providers. We will not seek out our own contracts with your third party providers without your explicit approval whilst we are working for you, and for a pre-agreed period of time after (unless a prior relationship with the third party was in place). We will also not seek to employ a member of the Client's staff should they leave the Client, unless there is explicit approval from the Client.
+Sometimes you may need us to work with your trusted third party providers. We will not seek out our own contracts with your third party providers without your explicit approval whilst we are working for you, and for a pre-agreed period of time after (unless a prior relationship with the third party was in place).
 
 ## Invoices
 
