@@ -9,7 +9,7 @@
 
 As far as possible, in all jurisdictions, the work we do for you is yours, and regarding this work we waive any future IP rights (grant a perpetual usage license in the UK). We do however request permission to add you to our website as a partner, and to use your company logo as part of our promotional material unless otherwise agreed. 
 
-In the case of software, we will sometimes use our own libraries within projects: these contain code which could be used within any other project without exposing any client's unique business logic or data.
+In the case of software, we will usually use third party libraries (as is accepted practice in software development) and sometimes use our own libraries within projects: these contain code which could be used within any other project without exposing any client's unique business logic or data. See [our Github](https://github.com/unegma/) for more info.
 
 ## Advisory and Project Management
 
@@ -45,7 +45,7 @@ We have a reputation to maintain, we know that you do too, therefore we will col
 
 ## Quality Assurance / Sign Off
 
-If appropriate, we will give you an opportunity to validate important work before it is published/released. If your team does not have the capacity for extensive audits (especially in the case of code), we will aim to work with you as closely as possible, often through a number of example scenarios, until any potential for unforeseen consequences is mitigated, or until the Client is happy that the work is in an acceptable state.
+If appropriate, we will give you an opportunity to validate important work before it is published/released. If your team does not have the capacity for extensive audits, we will aim to work with you as closely as possible, often through a number of example scenarios, until the Client is happy that the work is in an acceptable state.
 
 ## Revisions and Liabilities
 
