@@ -43,9 +43,9 @@ We can offer some security advice to clients (via a trusted third party provider
 
 We have a reputation to maintain, we know that you do too, therefore we will collaborate with you to the very best of our ability in order to provide you with a professional product and service. We are also happy to work for you as an [Undisclosed Agent](https://www.google.com?q=undisclosed+agent) when working with third parties (you will provide an email account for usage). 
 
-## Quality Assurance / Sign Off
+## Quality Assurance / Audit / Sign Off
 
-If appropriate, we will give you an opportunity to validate important work before it is published/released. If your team does not have the capacity for extensive audits, we will aim to work with you as closely as possible, often through a number of example scenarios, until the Client is happy that the work is in an acceptable state.
+It is the responsiblity of your team to audit/test any code before use in production, especially if dealing with financials. If your team does not have the capacity for extensive audits, we will aim to work with you as closely as possible, often through a number of example scenarios, until the Client is happy that the work is in an optimal working state. Please be aware that code often needs to be maintained in order to keep up with security updates/changes due to third parties.
 
 ## Revisions and Liabilities
 
