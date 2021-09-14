@@ -45,7 +45,7 @@ We have a reputation to maintain, we know that you do too, therefore we will col
 
 ## Quality Assurance / Audit / Sign Off
 
-It is the responsiblity of your team to audit/test any code before use in production, especially if dealing with financials. If your team does not have the capacity for extensive audits, we will aim to work with you as closely as possible, often through a number of example scenarios, until the Client is happy that the work is in an optimal working state. Please be aware that code often needs to be maintained in order to keep up with security updates/changes due to third parties.
+It is the responsiblity of the Client's team to audit/test any code before use in production, especially when dealing with code handling finance/digital assets. If your team does not have the capacity for extensive audits, we will aim to work with you as closely as possible, often through a number of example scenarios, until the Client is happy that the work is in the best agreed working state. Please be aware that code often needs to be maintained in order to keep up with security updates, or breaking changes due to third parties.
 
 ## Revisions and Liabilities
 
