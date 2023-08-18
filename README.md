@@ -1,4 +1,4 @@
-# AGREEMENT FOR WEB DEVELOPMENT SERVICES
+# Agreement for Web Development Services
 
 This Agreement is entered into between Unegma LTD ("Service Provider") and [Client Name], ("Client").
 
@@ -19,6 +19,10 @@ The Client is hiring the Service Provider for web development and related servic
 
 ## Scope of Services:
 The Service Provider specializes in web development and primarily deals with text-based code. Design assets should be provided by the Client or can be created at an additional cost. The scope of Work is as agreed upon in prior correspondences and can be amended upon mutual agreement.
+
+## Scoping and Project Responsibilities:
+
+Scoping: Before the commencement of the project, a comprehensive scope will be defined and documented. This scope will serve as a reference and guideline throughout the project's lifecycle. It will outline the project's objectives, deliverables, timelines, and other essential parameters. Any modifications or extensions to the scope post-agreement will require mutual consent and may lead to adjustments in timelines and/or costs.
 
 ## Intellectual Property:
 a. Foreground IP: Intellectual property generated during the course of the project is vested in the Client upon full payment.
