@@ -1,54 +1,55 @@
-# Terms and Conditions
+# AGREEMENT FOR WEB DEVELOPMENT SERVICES
 
-## Parties
+This Agreement is entered into between Unegma LTD ("Service Provider") and [Client Name], ("Client").
 
-* Us/We/Our - Unegma
-* You - the Client
+## Service Provider Details:
+Registered Address: 71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ
 
-## IP rights
+## Client Details:
+Name: [Client Name]
+Address: [Client Address]
 
-As far as possible, in all jurisdictions, the work we do for you is yours, and regarding this work we waive any future IP rights (grant a perpetual usage license in the UK). We do however request permission to add you to our website as a partner, and to use your company logo as part of our promotional material unless otherwise agreed. 
+## DEFINITIONS:
+a. "Work" refers to the specific services commissioned, including but not limited to web development, consultation, and workshops.
+b. "Client" refers to the party commissioning the work.
+c. "Service Provider" refers to Unegma LTD.
 
-In the case of software, we will usually use third party libraries (as is accepted practice in software development) and sometimes use our own libraries within projects: these contain code which could be used within any other project without exposing any client's unique business logic or data. See [our Github](https://github.com/unegma/) for more info.
+## PURPOSE:
+The Client is hiring the Service Provider for web development and related services as detailed in prior correspondence. This Agreement intends to outline the responsibilities of both parties to safeguard mutual interests.
 
-## Advisory and Project Management
+## SCOPE OF SERVICES:
+The Service Provider specializes in web development and primarily deals with text-based code. Design assets should be provided by the Client or can be created at an additional cost. The scope of Work is as agreed upon in prior correspondences and can be amended upon mutual agreement.
 
-We are aware that each company has its own structure and way of working; if you do not have a Project Management system in place, we will suggest our own tools and methodologies (following Agile principles as best as possible). 
+## INTELLECTUAL PROPERTY:
+a. Foreground IP: Intellectual property generated during the course of the project is vested in the Client upon full payment.
+b. Background IP: Existing intellectual property remains with its respective owners. This includes third-party libraries and proprietary code.
+c. The Service Provider requests the right to showcase their work as part of their portfolio, unless otherwise instructed by the Client.
 
-Unegma LTD is not a qualified legal or financial body and, whilst we endeavour to keep up with relevant changes in these areas, any advice given by Unegma LTD does not constitute professional financial or legal advice, as would usually be obtained by an accredited professional.
+## TESTING AND DEMOING:
+During the development phase, gathering feedback is paramount for refining and enhancing the product. With this in mind, the Service Provider may occasionally present the product to a select group of trusted third parties as part of the demonstration process. This "show and tell" mechanism is designed to identify potential challenges, gather diverse insights, and test the product's intuitiveness and overall user experience in a real-world setting.
 
-## Third Party Providers
+## PAYMENT TERMS:
+A non-refundable deposit of 20% is required upfront for fixed-term projects. Invoices are payable within 30 days through BACS or the SWIFT international payment system. Interest may be charged on overdue payments at a rate of 8% p.a. above the base rate of Barclays Bank.
 
-We will sometimes use trusted third party providers to complete supplementary work which falls within the scope of our responsibilities. Any delegated work will be done in such a way as to protect the identity and the business aims and objectives of the Client.
+## REVISIONS & LIABILITIES:
+While the Service Provider strives for perfection, they cannot guarantee error-free deliverables. The Client is responsible for reviewing and testing deliverables. Any damages arising from the use of the work, including lost profits or savings, will not be the responsibility of the Service Provider.
 
-## Non Compete
+## DATA PROTECTION & SECURITY:
+The Service Provider will employ best practices for data protection. Despite these efforts, the Service Provider cannot guarantee absolute data security due to external threats.
 
-Sometimes you may need us to work with your trusted third party providers. We will not seek out our own contracts with your third party providers without your explicit approval whilst we are working for you, and for a pre-agreed period of time after (unless a prior relationship with the third party was in place).
+## THIRD PARTIES:
+The Service Provider may engage third-party services for specialized tasks. The Client will own any visual assets created, while text, images, and data provided by the Client remain their property. The Service Provider retains the right to their unique combination of these elements.
 
-## Invoices
+## TERMINATION:
+Any deviations from the agreed scope may require renegotiation or termination of this Agreement. The Service Provider requires payment for all work done up to the point of termination.
 
-If invoices are unable to be paid on time, please speak to us and we will seek to come to some arrangement with you. In the event of no agreed arrangement, Unegma LTD will reduce it's time working with the Client (no matter the deadline of the project), until there has been a new arrangement. We don't usually do retainers, but we do ask for at least weekly billing.
+## GOVERNING LAW:
+This Agreement is governed by the laws of England and Wales. It cannot be transferred without the Service Provider's consent.
 
-## Security, Backups and Data
+By signing below, the parties agree to adhere to all terms and conditions mentioned above.
 
-We aim to keep relevant data backed up, on your servers if possible. We prefer not to use any of our own servers to keep data, as this makes a 'handover' difficult, and could also put us in a vulnerable position should there be a data breach. 
+Service Provider:
+Signature: _____________________________ Date: ______________
 
-To best protect any clients' data that does happen to be on our own devices, we ensure that our hard disks use encryption, and that we use strong passwords. We also use 2FA extensively where possible.
-
-We will not be held liable for any compromise of data in the event that a client's third party system, which we are contracted to work with, does not meet adequate security requirements. 
-
-We can offer some security advice to clients (via a trusted third party provider), and we will strongly advise following up on this in the case that a client is working with highly sensitive data.
-
-## Brand Visibility and Reputation
-
-We have a reputation to maintain, we know that you do too, therefore we will collaborate with you to the very best of our ability in order to provide you with a professional product and service. We are also happy to work for you as an [Undisclosed Agent](https://www.google.com?q=undisclosed+agent) when working with third parties (you will provide an email account for usage). 
-
-## Quality Assurance / Audit / Sign Off
-
-It is the responsiblity of the Client's team to audit/test any code before use in production, especially when dealing with code handling finance/digital assets. If your team does not have the capacity for extensive audits, we will aim to work with you as closely as possible, often through a number of example scenarios, until the Client is happy that the work is in the best agreed working state. Please be aware that code often needs to be maintained in order to keep up with security updates, or breaking changes due to third parties.
-
-## Revisions and Liabilities
-
-If something goes wrong, we will work with you as closely and quickly as possible to rectify/mitigate any unintended scenarios. Unegma LTD will not be responsible for any loss of data or reputation as a result of a decision that was made counter to reasonable advice. 
-
-We update this document from time to time, we will let you know when we do; usually in the footer of regular corresponsence (emails), because we probably hate spam just as much as you do.
+Client:
+Signature: _____________________________ Date: ______________
