@@ -80,6 +80,8 @@ The Service Provider will not be held liable for any compromise or loss of data 
 
 Any of the Client's data stored on the Service Provider's systems is encrypted and uses strong passwords. The Service Provider uses 2FA extensively where possible.
 
+We will not hold any personal details of users so as to comply with GDPR requirements, this will be the responsibility of the Client or GDPR approved Third Party.
+
 ## Payment Terms:
 Invoices are payable within 30 days or as agreed otherwise. Interest may be charged on overdue payments at a rate of 8% p.a. above the base rate of the Bank of England. A non-refundable deposit of 20% is required upfront for fixed-term projects.
 
