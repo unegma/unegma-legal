@@ -2,23 +2,23 @@
 
 This Agreement is entered into between Unegma LTD ("Service Provider") and [Client Name], ("Client").
 
-## Service Provider Details:
+## Service Provider Details
 Name: Unegma LTD
 Address: 71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ
 
-## Client Details:
+## Client Details
 Name: [Client Name]
 Address: [Client Address]
 
-## Third Parties:
+## Third Parties
 The Service Provider may engage third-party services for specialised tasks. The Client may have third parties with which the Service Provider will need to engage.
 
 If the Client wishes for the Service Provider to speak with one of their Third Party providers, it is the responsibility of the Client to decide whether the Service Provider will need to act as an Undisclosed Agent, and the Client must make provisions for this case.
 
-## Purpose:
+## Purpose
 The Client is hiring the Service Provider for web development and related services as detailed in prior correspondence. This Agreement intends to outline the responsibilities of both parties to safeguard mutual interests.
 
-## Definitions:
+## Definitions
 
 ### High Level Definitions
 a. "Work" refers to the specific services commissioned, including but not limited to web development, consultation, and workshops.
@@ -46,7 +46,7 @@ Unless a prior relationship with a Third Party of the Client was previously in p
 
 ## Development Lifecycle
 
-### Scope of Services:
+### Scope of Services
 The Service Provider specialises in web development and primarily deals with text-based code. Design assets should be provided by the Client or can be created at an additional cost. The scope of work is as agreed upon in prior correspondences and can be amended upon mutual agreement.
 
 Roles such as Project Management and Product Ownership, often falling within Agile workflows, will be carried out and managed by the Client. The Service Provider is happy to help with scoping out and designing business logic, but this responsibility will primarily fall on the Client.
@@ -65,7 +65,7 @@ We prefer to work quickly at the start of a Project to develop Core Functionalit
 
 There will be a working demo by this point, and a refactor won't change much obvious funcionality. After this initial clean up and optimisation, we will usually suggest bringing in tighter Project Management so that granular aspects of the Code can be developed more efficiently.
 
-### Testing and Demoing:
+### Testing and Demoing
 During the development phase, gathering feedback is paramount for refining and enhancing the product. With this in mind, the Service Provider may occasionally present the product to a select group of trusted third parties as part of the demonstration process. This "show and tell" mechanism is designed to identify potential challenges, gather diverse insights, and test the product's intuitiveness and overall user experience in a real-world setting.
 
 ### Sign off
@@ -73,7 +73,7 @@ It is the responsibility of the Client's to audit/test any code before use in pr
 
 The Client will be aware that code often needs to be maintained in order to keep up with security updates, or breaking changes due to third parties. The Service Provider will not be liable for any data breaches as a result of the Project not being actively maintained. Any ongoing maintenance by the Service Provider will require the negotiation of a separately scoped out agreement.
 
-## Data Protection & Security:
+## Data Protection & Security
 The Service Provider will employ best practices for data protection. The Service Provider cannot guarantee absolute data security, but frequently uses a third party provider for testing the security of The System. System logs will be kept for a maximum of 2 weeks.
 
 The Service Provider will not be held liable for any compromise or loss of data in the event that a Client's third party system, with whom we are contracted to work, does not meet adequate security requirements.
@@ -82,13 +82,25 @@ Any of the Client's data stored on the Service Provider's systems is encrypted a
 
 We will not hold any personal details of users so as to comply with GDPR requirements, this will be the responsibility of the Client or GDPR approved Third Party.
 
-## Payment Terms:
+## Confidentiality and Non-Disclosure
+Both parties acknowledge that during the course of this Agreement, each may obtain confidential information regarding the other's business. Such confidential information shall include, but not be limited to, trade secrets and business plans. Both parties agree not to disclose any confidential information obtained from the other, either directly or indirectly, to any third party. This section shall survive the termination of this Agreement.
+
+## Warranties
+The Service Provider warrants that the services provided under this Agreement will be delivered with reasonable skill, care, and professionalism, and will be functionally operative, free of critical errors, and in conformity with relevant industry standards.
+
+## Liabilities
+In no event shall the Service Provider be liable to the Client or any third party for any consequential, indirect, special, incidental, or punitive damages. The liabilities of the Service Provider arising out of this Agreement, whether based on breach of contract, tort (including negligence), or otherwise, shall not exceed the amount paid by the Client under this Agreement.
+
+## Dispute Resolution
+Should any dispute arise with respect to this Agreement, the parties agree to first attempt to resolve such dispute through direct and good faith negotiations.
+
+## Payment Terms
 Invoices are payable within 30 days or as agreed otherwise. Interest may be charged on overdue payments at a rate of 8% p.a. above the base rate of the Bank of England. A non-refundable deposit of 20% is required upfront for fixed-term projects.
 
-## Termination:
+## Termination
 Any deviations from the agreed scope may require renegotiation or termination of this Agreement. The Service Provider requires payment for all work done up to the point of termination.
 
-## Governing Law:
+## Governing Law
 This Agreement is governed by the laws of England and Wales. It cannot be transferred without the Service Provider's consent.
 
 By signing below, the parties agree to adhere to all terms and conditions mentioned above.
