@@ -1,4 +1,4 @@
-# Terms and Conditions for Web Development Services
+# Terms and Conditions of Services
 
 This Agreement is entered into between Unegma LTD ("Service Provider") and [Client Name], ("Client").
 
