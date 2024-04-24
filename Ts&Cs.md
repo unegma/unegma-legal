@@ -1,4 +1,4 @@
-# Terms and Conditions of Services
+# Terms and Conditions of Service
 
 This Agreement is entered into between Unegma LTD ("Service Provider") and [Client Name], ("Client").
 
