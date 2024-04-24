@@ -68,7 +68,7 @@ There will be a working demo by this point, and a refactor won't change much obv
 ### Testing and Demoing
 During the development phase, gathering feedback is paramount for refining and enhancing the product. With this in mind, the Provider may occasionally present the product to a select group of trusted third parties as part of the demonstration process. This "show and tell" mechanism is designed to identify potential challenges, gather diverse insights, and test the product's intuitiveness and overall user experience in a real-world setting.
 
-### Sign off
+### Sign Off
 It is the responsibility of the Client's to audit/test any code before use in production, especially when dealing with code handling finance/digital assets. The Provider will aim to work with The Client as closely as possible, often through a number of example scenarios, until the Client is happy that the work is in the best agreed working state. 
 
 The Client will be aware that code often needs to be maintained in order to keep up with security updates, or breaking changes due to third parties. The Provider will not be liable for any data breaches as a result of the Project not being actively maintained. Any ongoing maintenance by the Provider will require the negotiation of a separately scoped out agreement.
@@ -99,6 +99,9 @@ Invoices are payable within 30 days or as agreed otherwise. Interest may be char
 
 ## Termination
 Any deviations from the agreed scope may require renegotiation or termination of this Agreement. The Provider requires payment for all work done up to the point of termination.
+
+## Contract Updates
+The Provider may periodically update their Terms and Conditions of Service, any new updates will be visible to Clients and tagged with a new version number. Any new Terms and Conditions of Service will only apply to an existing Client should the Client be content to sign a new version of the document.
 
 ## Governing Law
 This Agreement is governed by the laws of England and Wales. It cannot be transferred without the Provider's consent.
