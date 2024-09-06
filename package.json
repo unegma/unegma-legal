@@ -1,0 +1,43 @@
+{
+  "name": "@unegma/unegmalegal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-deps": "npm install",
+    "update-install": "npm update; npm install;",
+    "build": "rm -rf ./dist && npx tsc",
+    "##COPY-THE-MD": "v--- TODO FIND A BETTER WAY? ---v",
+    "postbuild": "cp ./lib/PrivacyPolicy/privacy.md ./dist/PrivacyPolicy/privacy.md",
+    "pub-major": "npm run build && npm version major --force && npm publish && git push && git push --tags",
+    "pub-minor": "npm run build && npm version minor --force && npm publish && git push && git push --tags",
+    "pub-patch": "npm run build && npm version patch --force && npm publish && git push && git push --tags",
+    "unpublish-single-version": "npm unpublish <package-name>@<version>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unegma/unegma-legal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unegma/unegma-legal/issues"
+  },
+  "homepage": "https://github.com/unegma/unegma-legal#readme",
+  "devDependencies": {
+    "@types/react": "18.3.1",
+    "typescript": "5.4.5"
+  },
+  "peerDependencies": {
+    "react": "18.3.1"
+  },
+  "dependencies": {
+    "@unegma/logger": "^4.0.0",
+    "markdown-to-jsx": "^7.4.7"
+  }
+}
