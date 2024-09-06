@@ -1,4 +1,3 @@
-import privacy from "./privacy.md";
 import * as React from 'react';
 import ReactMarkdown from 'markdown-to-jsx';
 
@@ -42,7 +41,7 @@ const CustomLI = ({ children }: { children: React.ReactNode }) => {
   );
 };
 
-const options = {
+const defaultOps = {
   overrides: {
     h1: {
       component: CustomH1,
@@ -68,6 +67,6 @@ const options = {
   },
 };
 
-export function PrivacyPolicy(props: any) {
-  return <ReactMarkdown options={options} {...props}>{privacy}</ReactMarkdown>;
+export function MDTemplate({md, options = defaultOps, ...props}: any) {
+  return <ReactMarkdown options={options} {...props}>{md}</ReactMarkdown>;
 }

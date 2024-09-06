@@ -12,8 +12,7 @@
     "install-deps": "npm install",
     "update-install": "npm update; npm install;",
     "build": "rm -rf ./dist && npx tsc",
-    "##COPY-THE-MD": "v--- TODO FIND A BETTER WAY? ---v",
-    "postbuild": "cp ./lib/PrivacyPolicy/privacy.md ./dist/PrivacyPolicy/privacy.md",
+    "postbuild": "cp lib/legal-docs/*.md ./dist/",
     "pub-major": "npm run build && npm version major --force && npm publish && git push && git push --tags",
     "pub-minor": "npm run build && npm version minor --force && npm publish && git push && git push --tags",
     "pub-patch": "npm run build && npm version patch --force && npm publish && git push && git push --tags",
@@ -34,7 +33,8 @@
     "typescript": "5.4.5"
   },
   "peerDependencies": {
-    "react": "18.3.1"
+    "react": "18.3.1",
+    "tailwindcss": "^3.4.3"
   },
   "dependencies": {
     "@unegma/logger": "^4.0.0",
