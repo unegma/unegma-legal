@@ -1,5 +1,5 @@
 # Readme
-!!! THIS REPO IS PUBLIC !!!
+** Public Repo **
 
 Legal Documents
 
