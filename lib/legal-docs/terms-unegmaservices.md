@@ -1,4 +1,4 @@
-# Terms and Conditions for Professional Services ([Unegma Services](https://unegma.services))
+# General Terms and Conditions for Professional Services ([Unegma Services](https://unegma.services))
 
 **Last modified: Nov 29th, 2024.**
 
@@ -23,6 +23,7 @@ a. Unegma Services provides professional services, which may include but are not
 	•	Focus groups
 	•	Copywriting
 	•	Venue sourcing
+
 
 b. The specific services to be provided will be outlined in a separate statement of work or proposal, which will be attached to this Agreement as an addendum.
 
