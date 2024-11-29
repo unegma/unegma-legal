@@ -4,7 +4,7 @@
 
 This timestamped Terms & Conditions document, together with the specific Scope of Work for your project, form the entire agreement between you and Unegma.
 
-If any terms in these Terms and Conditions conflict with those in the Scope of Work, the terms specified in the Scope of Work will take precedence. See `section 1. b. ii.` for details.
+If any terms in these Terms and Conditions conflict with those in the Scope of Work, the terms specified in the Scope of Work will take precedence.
 
 These documents outline all the terms, responsibilities, and expectations for our work together.
 
@@ -24,7 +24,7 @@ a. Unegma Services provides professional services, which may include but are not
 	•	Copywriting
 	•	Venue sourcing
 
-
+\
 b. The specific services to be provided will be outlined in a separate statement of work or proposal, which will be attached to this Agreement as an addendum.
 
 ## 2. Project Scope and Amendments
