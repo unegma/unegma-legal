@@ -25,7 +25,7 @@ iii. Scope Changes: If the scope changes, we’ll both need to agree on the new 
 
 i. Core Functionality First: We start by focusing on the most important features of your project, ensuring it works correctly before adding design elements.
 
-ii. Refactoring: After the initial work is done, we will clean up and optimize the code. This may involve dealing with “technical debt,” which means refining some early code which was written quickly to get things up and running.
+ii. Refactoring: After the initial work is done, we will clean up and optimise the code. This may involve dealing with “technical debt,” which means refining some early code which was written quickly to get things up and running.
 
 ### e. Roles and Responsibilities
 
