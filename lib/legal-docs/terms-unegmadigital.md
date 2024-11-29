@@ -15,15 +15,11 @@ i. You are hiring Unegma for web development and related services. This Agreemen
 
 ### b. Scope of Work
 
-i. What We Do: Unegma specializes in web development and text-based code. If design assets are needed, you can provide them or we can create them for an additional cost.
+i. What We Do: Unegma specialises in web development and text-based code. If design assets are needed, you can provide them or we can create them for an additional cost.
 
 ii. Project Scope: Before starting, we’ll agree on the project’s scope, which will include, payment terms, acceptance criteria, objectives, deliverables, timelines, exclusions and assumptions, and any other important details. 
 
-iii. If the scope changes, we’ll both need to agree on the new terms, including any adjustments to costs and timelines.
-
-### c. Change Orders
-
-i. Scope Changes: If you want to change the scope of the project, we’ll need to agree on the new details, including how it affects the price and timeline.
+iii. Scope Changes: If the scope changes, we’ll both need to agree on the new terms, including any adjustments to costs and timelines.
 
 ### d. Development Process
 
