@@ -198,7 +198,3 @@ _Signature:_
 Name: [Client Contact Name]  
 Title: [Client Contact Title]  
 Date: [Date]
-
----
-
-**Note:** This template is intended to serve as a starting point. Please review and modify it to suit each specific project's requirements. It's advisable to have a legal professional review your contracts to ensure they comply with all applicable laws and adequately protect your interests.
