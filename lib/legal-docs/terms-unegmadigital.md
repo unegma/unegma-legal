@@ -95,6 +95,8 @@ i. Warranty Period: After the project is delivered, Unegma will fix any bugs or 
 
 i. Invoices: Payments are due within 30 days unless we agree otherwise. Late payments may incur interest at 8% per annum above the Bank of England’s base rate. For fixed-term projects, a non-refundable deposit of 50% is required upfront.
 
+ii. VAT: Invoices are not inclusive of VAT unless specified.
+
 ### b. Termination
 
 i. Ending the Agreement: If the scope of work changes significantly, we may need to renegotiate or end this Agreement. Unegma will require payment for all work completed up to the point of termination.
