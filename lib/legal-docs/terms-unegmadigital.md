@@ -1,6 +1,6 @@
 # General Terms & Conditions for Multimedia Development ([Unegma Digital](https://unegma.digital))
 
-**Last modified: Nov 29th, 2024.**
+**Last modified: Apr 30th, 2025.**
 
 This timestamped Terms & Conditions document, together with the specific Scope of Work for your project, form the entire agreement between you and Unegma. 
 
