@@ -19,15 +19,15 @@ i. What We Do: Unegma specialises in web development and text-based code. If des
 
 ii. Project Scope: Before starting, we’ll agree on the project’s scope, which will include, payment terms, acceptance criteria, objectives, deliverables, timelines, exclusions and assumptions, and any other important details. These terms and conditions along with the scope will form the full agreement.
 
-iii. Scope Changes: If the scope changes, we’ll both need to agree on the new terms, including any adjustments to costs and timelines.
+iii. Scope Changes: The services and deliverables specified in a Statement of Work ("SoW") are based on information provided by the Client and an assessment of the technical requirements available at the outset. If during execution it becomes evident that the work required to complete the project exceeds the original scope, due to unforeseen circumstances, technical limitations, changes in requirements, or data complexity that could not reasonably have been anticipated at the time of agreement, Unegma will promptly notify the Client. Upon notification, both parties agree to promptly discuss and mutually agree on the scope of any additional work required, along with any associated adjustments in compensation and timelines. No further obligations or additional tasks will be undertaken by the Contractor without explicit, written agreement from both parties concerning any supplementary fees and scheduling adjustments. This clause explicitly overrides any implicit assumptions regarding obligations beyond the originally defined and agreed-upon scope of work.
 
-### d. Development Process
+### c. Development Process
 
 i. Core Functionality First: We start by focusing on the most important features of your project, ensuring it works correctly before adding design elements.
 
 ii. Refactoring: After the initial work is done, we will clean up and optimise the code. This may involve dealing with “technical debt,” which means refining some early code which was written quickly to get things up and running.
 
-### e. Roles and Responsibilities
+### d. Roles and Responsibilities
 
 i. Project Management: While Unegma will help with scoping and business logic, you’ll be responsible for overall project management and decision-making throughout the project.
 
