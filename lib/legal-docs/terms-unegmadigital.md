@@ -73,7 +73,7 @@ i. Keeping Information Private: Both Unegma and you agree to keep any confidenti
 
 ### d. Non-Compete
 
-i. Unegma will not pursue contracts with any of your third-party providers during the project or for a set period afterward - at your request - unless a prior relationship existed or you give explicit approval.
+i. Unegma will not pursue contracts with any of your third-party providers during the project or for a set period afterward - at your request - unless a prior relationship existed.
 
 ## 4. Delivery, Acceptance, and Support
 
