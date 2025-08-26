@@ -27,7 +27,7 @@ i. Core Functionality First: We start by focusing on the most important features
 
 ii. Refactoring: After the initial work is done, we will clean up and optimise the code. This may involve dealing with “technical debt,” which means refining some early code which was written quickly to get things up and running.
 
-iii. AI: Unegma occasionally uses AI tools within business processes. We make every effort to use offline-only tools where any client confidential data is concerned. The client accepts responsibility for any copyright claims based on AI produced content.
+iii. AI: Unegma occasionally uses AI tools within business processes. We make every effort to use offline-only tools where any client confidential data is concerned.
 
 ### d. Roles and Responsibilities
 
@@ -56,6 +56,10 @@ ii. Our IP: Unegma keeps ownership of any existing intellectual property, includ
 iii. Reusing IP: Unegma may reuse some generic code or techniques in other projects, as well as any IP created by third-party specialists.
 
 iv. Third Party Libraries: As in any software project, open source libraries or frameworks may be used for development. If IP is of high concern, we will share with you details of what has been used which will then be your responsibility to check regarding IP rights.
+
+v. The client accepts responsibility for any copyright claims based on AI produced content.
+
+vi. Unegma will not be held responsible for any problems arising from the use of 'test accounts' set up with third parties in order to test software integrations.
 
 ### b. Data Protection & Security
 
