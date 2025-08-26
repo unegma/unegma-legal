@@ -1,6 +1,6 @@
 # General Terms & Conditions for Multimedia Development ([Unegma Digital](https://unegma.digital))
 
-**Last modified: Apr 30th, 2025.**
+**Last modified: Aug 26th, 2025.**
 
 This timestamped Terms & Conditions document, together with the specific Scope of Work for your project, form the entire agreement between you and Unegma. 
 
@@ -26,6 +26,8 @@ iii. Scope Changes: The services and deliverables specified in a Statement of Wo
 i. Core Functionality First: We start by focusing on the most important features of your project, ensuring it works correctly before adding design elements.
 
 ii. Refactoring: After the initial work is done, we will clean up and optimise the code. This may involve dealing with “technical debt,” which means refining some early code which was written quickly to get things up and running.
+
+iii. AI: Unegma occasionally uses AI tools within business processes. We make every effort to use offline-only tools where any client confidential data is concerned.
 
 ### d. Roles and Responsibilities
 
@@ -71,7 +73,7 @@ i. Keeping Information Private: Both Unegma and you agree to keep any confidenti
 
 ### d. Non-Compete
 
-i. No Competing: Unegma will not pursue contracts with any of your third-party providers during the project or for a set period afterward, unless we already had a prior relationship with them or you give explicit approval.
+i. Unegma will not pursue contracts with any of your third-party providers during the project or for a set period afterward - at your request - unless a prior relationship existed or you give explicit approval.
 
 ## 4. Delivery, Acceptance, and Support
 
@@ -103,7 +105,7 @@ i. Ending the Agreement: If the scope of work changes significantly, we may need
 
 ### c. Liabilities
 
-i. Limitations: Unegma isn’t responsible for any indirect, special, or incidental damages. Our total liability for any claim is limited to the amount you’ve paid under this Agreement.
+i. Limitations: Unegma will not be held responsible for any indirect, special, or incidental damages. Our total liability for any claim is limited to the amount you’ve paid under this Agreement.
 
 ### d. Force Majeure
 
