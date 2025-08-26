@@ -27,7 +27,7 @@ i. Core Functionality First: We start by focusing on the most important features
 
 ii. Refactoring: After the initial work is done, we will clean up and optimise the code. This may involve dealing with “technical debt,” which means refining some early code which was written quickly to get things up and running.
 
-iii. AI: Unegma occasionally uses AI tools within business processes. We make every effort to use offline-only tools where any client confidential data is concerned.
+iii. AI: Unegma occasionally uses AI tools within business processes. We make every effort to use offline-only tools where any client confidential data is concerned. The client accepts responsibility for any copyright claims based on AI produced content.
 
 ### d. Roles and Responsibilities
 
