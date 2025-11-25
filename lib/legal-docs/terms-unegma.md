@@ -1,6 +1,6 @@
 # General Terms & Conditions ([Unegma](https://unegma.com))
 
-**Last modified: Nov 21th, 2025.**
+**Last modified: Nov 25th, 2025.**
 
 This Terms & Conditions, alongside specified documents, will form the entire agreement between you (the client) and Unegma.
 
@@ -48,11 +48,11 @@ iii. Third Party IP: Third party tools will likely be used for software developm
 
 ### b. Data Protection & Security
 
-i. Your data: Unegma will make every effort to protect your sensitive data and sensitive data of your clients and/or users.
+i. Your data: Unegma will make every effort to protect your sensitive data and sensitive data of your clients and/or users: including using encryption and 2FA.
 
 ii. Your Responsibility: Unegma will not be held responsible for any data breach caused by any third-party system used.
 
-iii. GDPR Compliance: Unless agreed, we will not store any personal details of your users so as to comply with GDPR.
+iii. GDPR Compliance: Unegma will delete or return all personal data to the controller after the end of the provision of services relating to processing.
 
 ### c. Confidentiality and Non-Disclosure
 
